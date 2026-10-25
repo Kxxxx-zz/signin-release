@@ -1,0 +1,15 @@
+{
+  "latest_version": "3.2.1",
+  "release_date": "2026-10-26",
+  "release_notes": [
+    "修复热更新后偶发 DLL 加载失败导致无法启动的问题",
+    "设置面板开关对齐优化",
+    "软件内支持发送短信验证码（手动滑块安全验证）",
+    "更新流程增加主窗口确认与失败自动重试"
+  ],
+  "download_url": "https://github.com/Kxxxx-zz/signin-release/releases/download/v3.2.1/KKFibiSignin-V3.2.1.exe",
+  "download_url_backup": "",
+  "manual_page": "https://github.com/Kxxxx-zz/signin-release/releases",
+  "sha256": "12ac7e2cc2940b4d11ec9a9ecf716a9e61e2bfe1f282df36215f63222e4dd06e",
+  "size": 27190648
+}
