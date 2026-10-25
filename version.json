@@ -1,12 +1,14 @@
 {
-  "latest_version": "3.1.0",
+  "latest_version": "3.2.0",
   "release_date": "2026-10-26",
   "release_notes": [
-    "新增带安全网的全自动热更，支持手动兜底",
-    "新增签到历史统计（连续天数 / 日历 / 奖励 / 库洛币）"
+    "修复设置面板开关未对齐的问题",
+    "新增软件内极验滑块验证，通过后自动发送短信验证码",
+    "验证通过后安全窗口自动关闭，获取按钮进入60秒倒计时"
   ],
-  "download_url": "https://github.com/Kxxxx-zz/signin-release/releases/download/v3.1.0/KKFibiSignin-V3.1.0.exe",
+  "download_url": "https://github.com/Kxxxx-zz/signin-release/releases/download/v3.2.0/KKFibiSignin-V3.2.0.exe",
+  "download_url_backup": "",
   "manual_page": "https://github.com/Kxxxx-zz/signin-release/releases",
-  "sha256": "f256ae7e718ac8929dffa659438d06d7c6726a892263a869ab7954b894c429de",
-  "size": 25029454
+  "sha256": "55d7efe4a5ac6d0cdf76269c35aba07a65cbb37698612398f1dc70946d402fd1",
+  "size": 27188755
 }
