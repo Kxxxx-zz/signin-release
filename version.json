@@ -1,15 +1,14 @@
 {
-  "latest_version": "3.2.1",
+  "latest_version": "3.2.2",
   "release_date": "2026-10-26",
   "release_notes": [
-    "修复热更新后偶发 DLL 加载失败导致无法启动的问题",
-    "设置面板开关对齐优化",
-    "软件内支持发送短信验证码（手动滑块安全验证）",
-    "更新流程增加主窗口确认与失败自动重试"
+    "热更新切换为腾讯云国内源，检查更新与下载速度大幅提升",
+    "多源并发竞速，腾讯云异常时自动切换 GitHub 兜底",
+    "保留 SHA256 校验，更新内容安全可信"
   ],
-  "download_url": "https://github.com/Kxxxx-zz/signin-release/releases/download/v3.2.1/KKFibiSignin-V3.2.1.exe",
-  "download_url_backup": "",
+  "download_url": "https://kkfibi-signin-1517098509.cos.ap-shanghai.myqcloud.com/KKFibiSignin-V3.2.2.exe",
+  "download_url_backup": "https://github.com/Kxxxx-zz/signin-release/releases/download/v3.2.2/KKFibiSignin-V3.2.2.exe",
   "manual_page": "https://github.com/Kxxxx-zz/signin-release/releases",
-  "sha256": "12ac7e2cc2940b4d11ec9a9ecf716a9e61e2bfe1f282df36215f63222e4dd06e",
-  "size": 27190648
+  "sha256": "df7124042978ef1db2d25c9bbdd28bf8c1bf6562e51b578fea5d0739ae484a5e",
+  "size": 27191782
 }
